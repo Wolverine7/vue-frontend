@@ -1,0 +1,1 @@
+{"status":"error","publicPath":"http://0.0.0.0:8080/","error":"ModuleNotFoundError","message":"Module not found: Error: Can't resolve './http/APIService' in '/Users/bobo/Desktop/Developers/Django/efsvue/frontend/src'"}
